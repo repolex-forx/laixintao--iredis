@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/laixintao/iredis/commit/554bff6bfaa499e8fce488fb9dbd21900cd3d0ba",
       "git:hexsha": "554bff6bfaa499e8fce488fb9dbd21900cd3d0ba",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/laixintao/iredis/commit/db74f58996a647332939474513a35c0a3f3c16d7",
